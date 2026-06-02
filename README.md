@@ -58,6 +58,6 @@ I am passionate about solving real business problems using Business Intelligence
 
 ## 🔹 Connect With Me
 
-LinkedIn:(https://www.linkedin.com/in/nitien-sadaphall-a280583a6/)
+LinkedIn:(https://www.linkedin.com/in/nitin-sadaaphal-a280583a6/?skipRedirect=true)
 
 GitHub: (https://github.com/NitienSadaphall/NitienSadaphall/edit/main/README.md)
