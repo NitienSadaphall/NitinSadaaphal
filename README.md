@@ -1,4 +1,4 @@
-# Hi, I'm Nitien Sadaphall 👋
+# Hi, I'm Nitin Sadaaphal 👋
 
 ## Data Analyst | Business Intelligence | Power BI | SQL | Python
 
